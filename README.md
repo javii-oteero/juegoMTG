@@ -6,7 +6,7 @@ Este juego es una versión de un clásico juego de memoria, con un toque temáti
 
 ## Cómo jugar
 
-1. Abre el archivo `index.html` en tu navegador web preferido.
+1. Abre el archivo `juegoMTG.html` en tu navegador web preferido.
 2. Haz clic en las cartas para revelarlas y encontrar sus parejas.
 3. Si las cartas que seleccionaste son iguales, permanecerán visibles en la pantalla. Si no coinciden, se volverán a ocultar después de un breve momento.
 4. El juego continuará hasta que todas las parejas de cartas sean encontradas.
